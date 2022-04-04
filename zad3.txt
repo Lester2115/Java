@@ -1,0 +1,10 @@
+W 1 godzinie : 100.0
+W 2 godzinie : 200.0
+W 3 godzinie : 300.0
+W 4 godzinie : 400.0
+W 5 godzinie : 500.0
+W 6 godzinie : 600.0
+W 7 godzinie : 700.0
+W 8 godzinie : 800.0
+W 9 godzinie : 900.0
+W 10 godzinie : 1000.0
